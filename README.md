@@ -16,14 +16,10 @@ It's-a me, Camis!</b> :metal:</p></h2>
 :book: Conhecimento em: Excel, Mysql, Kanban, 5W2H, Ferramenta 5 porques,
 </br></br>
 
-
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camila-mariani)
 
-<img align="center" width="900px" height="400px" src="https://user-images.githubusercontent.com/106494865/170907124-db44d08b-8396-466c-89b3-64f550359424.png">
+<img align="center" src="https://user-images.githubusercontent.com/106494865/170907793-e06b1e00-d898-494a-8603-194fd9a1ed7a.png">
 </br>
-
-
-
 
 
 <!--
