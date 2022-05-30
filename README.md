@@ -14,7 +14,8 @@ It's-a me, Camis!</b> :metal:</p></h2>
 :telephone_receiver: Atualmente trabalho como Analista de Suporte Sênior na PagSeguro PagBank.</br>
 :mag_right: Facinada por desvendar sistemas, identificar melhorias e bugs. </br>
 :books: Iniciando meus estudos na parte de automação de teste, com o curso Teste de Software pela <a href="https://ebaconline.com.br/">EBAC</a> e pelo canal <a href="http://youtube.com/c/Agilizei">Agilizei</a>. </br>
-:book: Conhecimento em: Excel, Mysql, Kanban, 5W2H, Ferramenta 5 porques.
+:book: Conhecimento em: Excel, Mysql, Kanban, 5W2H, Ferramenta 5 porques. </br>
+:dart: Meu objetivo atual é iniciar a transição de carreira de Analista de Suporte para Analista de Teste.
 </br></br>
 
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camila-mariani)
