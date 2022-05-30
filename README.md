@@ -13,7 +13,7 @@ It's-a me, Camis!</b> :metal:</p></h2>
 :dog: Faço trabalho voluntário em uma ONG de proteção animal.</br>
 :telephone_receiver: Atualmente trabalho como Analista de Suporte Sênior na PagSeguro PagBank.</br>
 :mag_right: Facinada por desvendar sistemas, identificar melhorias e bugs. </br>
-:books: Iniciando meus estudos na parte de automação de teste, com o curso Teste de Software pela <a href="https://ebaconline.com.br/">EBAC</a> e pelos canal <a href="http://youtube.com/c/Agilizei">Agilizei</a>. </br>
+:books: Iniciando meus estudos na parte de automação de teste, com o curso Teste de Software pela <a href="https://ebaconline.com.br/">EBAC</a> e pelo canal <a href="http://youtube.com/c/Agilizei">Agilizei</a>. </br>
 :book: Conhecimento em: Excel, Mysql, Kanban, 5W2H, Ferramenta 5 porques.
 </br></br>
 
