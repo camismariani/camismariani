@@ -6,13 +6,16 @@ It's-a me, Camis!</b> :metal:</p></h2>
 </br></br>
 
 ## Sobre mim
-<img width="25px" src="https://user-images.githubusercontent.com/106494865/170899241-df975caa-6cfe-441c-9a43-3f1f3842e6f0.png"> Tenho 33 anos, catarinente e graduada em Ciência da Computação.</br> 
+<img width="25px" src="https://user-images.githubusercontent.com/106494865/170899241-df975caa-6cfe-441c-9a43-3f1f3842e6f0.png"> Tenho 33 anos, catarinente e graduada em Ciência da Computação, as vezes sou pessima em lógica. 🤷‍♀️</br> 
 :heart_eyes_cat: Amo animais, tenho duas gatas e uma cachorra. </br>
 :dog: Faço trabalho voluntário em uma ONG de proteção animal.</br>
-🔭 Atualmente trabalho como Analista de Suporte Sênior na PagSeguro PagBank.</br>
+:telephone_receiver: Atualmente trabalho como Analista de Suporte Sênior na PagSeguro PagBank.</br>
+:mag_right: Facinada por desvendar sistemas, indetificar melhorias e bugs. </br>
+:books: Iniciando meus estudos na parte de automação de teste, com o curso Teste de Software pela <a href="https://ebaconline.com.br/">EBAC</a> e pelos canal <a href="http://youtube.com/c/Agilizei">Agilizei</a>. </br>
+:book: Conhecimento em: Excel, Mysql, Kanban, 5W2H, Ferramenta 5 porques,
+</br></br>
 
-
-
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camila-mariani)
 <!--
 **camismariani/camismariani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
