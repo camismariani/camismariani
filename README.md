@@ -11,13 +11,11 @@ It's-a me, Camis!</b> :metal:</p></h2>
 🌭 Amo cachorro-quente e coca-cola. </br>
 :heart_eyes_cat: Tenho duas gatas e uma cachorra. </br>
 :dog: Faço trabalho voluntário em uma ONG de proteção animal.</br>
-:telephone_receiver: Trabalhei por mais de 8 anos na área de suporte à sistemas e atualmente sou Analista de Teste de Qualidade de Software na Trindtech.</br>
+:telephone_receiver: Trabalhei por mais de 8 anos na área de suporte à sistemas e hoje atuo como Analista de Teste de Qualidade de Software na Trindtech.</br>
 :mag_right: Fascinada por desvendar sistemas, identificar melhorias e bugs. </br>
-:books: Iniciando meus estudos na parte de automação de teste, com o curso Teste de Software pela <a href="https://ebaconline.com.br/">EBAC</a> e pelo canal <a href="http://youtube.com/c/Agilizei">Agilizei</a>. </br>
 :book: Conhecimento em: Excel, Mysql, Kanban, 5W2H, Ferramenta 5 porques, Validação de Sistemas Computadorizados/ANVISA.
 </br></br>
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/camila-mariani-4322a996/)
 
 <img align="center" src="https://user-images.githubusercontent.com/106494865/170907793-e06b1e00-d898-494a-8603-194fd9a1ed7a.png">
 </br>
