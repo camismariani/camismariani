@@ -7,7 +7,7 @@ It's-a me, Camis!</b> :metal:</p></h2>
 
 ## Sobre mim
 <img width="25px" src="https://user-images.githubusercontent.com/106494865/170899241-df975caa-6cfe-441c-9a43-3f1f3842e6f0.png"> Tenho 34 anos, catarinense e graduada em Ciência da Computação. </br>
-:game_die: As vezes sou péssima em lógica. 🤷‍♀️</br> 
+:game_die: As vezes sou péssima em lógica, 🤷‍♀️ mas estudando continuamente pra melhorar esse meu gap.</br> 
 🌭 Amo cachorro-quente e coca-cola. </br>
 :heart_eyes_cat: Tenho duas gatas e uma cachorra. </br>
 :dog: Faço trabalho voluntário em uma ONG de proteção animal.</br>
