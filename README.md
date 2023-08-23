@@ -11,10 +11,13 @@ It's-a me, Camis!</b> :metal:</p></h2>
 🌭 Amo cachorro-quente e coca-cola. </br>
 :heart_eyes_cat: Tenho duas gatas e uma cachorra. </br>
 :dog: Faço trabalho voluntário em uma ONG de proteção animal.</br>
-:telephone_receiver: Trabalhei por mais de 8 anos na área de suporte à sistemas e hoje atuo como Analista de Teste de Qualidade de Software na Trindtech.</br>
-:mag_right: Fascinada por desvendar sistemas, identificar melhorias e bugs. </br>
-:book: Conhecimento em: Excel, Mysql, Kanban, 5W2H, Ferramenta 5 porques, Validação de Sistemas Computadorizados/ANVISA.
-</br></br>
+:telephone_receiver: Trabalhei por mais de 8 anos na área de suporte à sistemas e hoje atuo como Analista de Teste de Qualidade de Software na Trindtech atuando num projeto internacional, testando um aplicativo voltado para a área da saúde.</br>
+:mag_right: Fascinada por desvendar sistemas, identificar melhorias, bugs e verificar se o sistema está sendo desenvolvido conforme específicado. </br>
+:book: Conhecimentos: Mysql, Kanban, 5W2H, Ferramenta 5 porques, Validação de Sistemas Computadorizados/ANVISA, ISO 9001:2015, teste mobile, web e desktop.
+</br>
+
+Aqui você irá encontrar alguns estudos que venho fazendo na área de teste de software. Algumas tecnologias que já utilizei: JUnit, Java, Selenium WebDriver, Cypress, JavaScript, Appium e RestAssured.
+</br>
 
 
 <img align="center" src="https://user-images.githubusercontent.com/106494865/170907793-e06b1e00-d898-494a-8603-194fd9a1ed7a.png">
